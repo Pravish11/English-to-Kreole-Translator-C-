@@ -1,7 +1,6 @@
 /* SURNAME: Digumber
    NAME: Pravish Kumar
-   Student ID: 2011244
-   Programme: BSc (Hons) Computer Science L1, Group A
+   Programme: BSc (Hons) Computer Science L1
    Module: Computer Programming, ICT 1017Y
    Date: 01 June 2021
    Notes:
